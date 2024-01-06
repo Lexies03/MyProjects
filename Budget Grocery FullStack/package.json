@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Budget Grocery Full Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lissa",
+  "license": "ISC"
+}
